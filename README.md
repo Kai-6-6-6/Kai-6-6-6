@@ -1,4 +1,8 @@
-### Hi there 👋
+### Haii :cherry_blossom:
+# ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+[![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai-6-6-6&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+[![Kai's Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=1f6ifiaylxf2x9ngedoargj93&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=1f6ifiaylxf2x9ngedoargj93&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=9546ee&bar_color_cover=true)
 
 <!--
 **Kai-6-6-6/Kai-6-6-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
